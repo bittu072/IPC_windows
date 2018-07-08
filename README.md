@@ -9,7 +9,7 @@ Windows Console applications to showcase IPC between server and client using nam
 1. hello - to say hi "hello"
 2. exit - to disconnect "exit"
 3. help - for help "--help"
-4. command -
+4. command -  
 		{user} - current user of server "command{user}"  
 		{last_message} - previous message from client "command{last_message}"  
 		{savelist} - save list on server(limit of 100 char total) "command{savelist}elem1,elem2,elem3,...,elemN"  
